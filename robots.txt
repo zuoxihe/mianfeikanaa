@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zuoxihe.github.io/mianfeikanaa/sitemap.xml
